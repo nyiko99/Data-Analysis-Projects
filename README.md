@@ -1,0 +1,1 @@
+These projects are aim to analyze retail sales, student performance, Ecommerce data to uncover trends and patterns that can enhance strategies. It includes data cleansing, visualization, and statistical analysis to provide actionable insights on customer behavior and student performance.
